@@ -13,7 +13,7 @@ The SWISS Airlines Login App will receive the following features:
 
 ## Screenshots
 
-Here are some screenshots of the Barber Shop App:
+Here are some screenshots of the app:
 
 
 ## Credits
